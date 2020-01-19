@@ -1,0 +1,7 @@
+1. Magic features (Kate)
+2. NN classifier (Persio)
+3. LGB, Logit (Max)
+4. Utkarsh (Random Forest, AdaBoost)
+5. XGBoost, CatBoost, SVM*(Kate)
+6. Antonio (Logit, NaiveBayes)
+7. Benjamin( NNs, read kernels for preprocessing/other stuff that can be done)
