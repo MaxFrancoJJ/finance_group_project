@@ -1,3 +1,5 @@
+**Tasks:**
+
 [ ] Magic features (Kate)
 [ ] NN classifier (Persio)
 [ ] LGB, Logit (Max)
